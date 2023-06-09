@@ -1,1 +1,2 @@
-# html-odev1
+# Kodluyoruz İlk Ödev Html-Odev1
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Patikasında olan Html eğitimi kapsamında ki ilk ödev. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
